@@ -1,0 +1,10 @@
+[Match]
+Name=usbeth1
+
+[Network]
+DHCP=yes
+IPv6PrivacyExtensions=true
+
+[DHCP]
+RouteMetric=12
+UseHostname=false

@@ -1,0 +1,8 @@
+[Match]
+Name=enpXsXXu*
+MACAddress=XX:XX:XX:XX:XX:XX
+
+
+[Link]
+MACAddressPolicy=random
+Name=usbeth1

@@ -7,4 +7,7 @@ IPv6PrivacyExtensions=true
 
 [DHCP]
 RouteMetric=10
+SendHostname=false
 UseHostname=false
+UseDNS=false
+ClientIdentifier=mac
